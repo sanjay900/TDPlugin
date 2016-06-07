@@ -1,0 +1,12 @@
+name: TDPlugin
+main: com.sanjay900.TD.TDPlugin
+version: 12.0
+depends: [ControllableMobsAPI]
+commands:
+   startgame:
+      description: testcommand
+      usage: /testcommand
+   stopgame:
+      description: testcommand
+      usage: /testcommand
+

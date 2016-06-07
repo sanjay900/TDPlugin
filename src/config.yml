@@ -1,0 +1,27 @@
+games:
+    moba:
+        maxhealth: 20
+        world: MOBA
+        teams:
+           light:
+               hpLocations:
+                  - -52,63,66
+                  - -58,63,72
+                  - -52,63,78
+                  - -46,63,72
+               colourcode: 7
+               spawnlocation: -65,65,85
+               towerLocations:
+                  - 0,0,0
+               treeLocation: -48,65,72
+           dark:
+               hpLocations:
+                  - 64,63,-48
+                  - 58,63,-42
+                  - 64,63,-36
+                  - 70,63,-42
+               colourcode: 8
+               spawnlocation: 76,65,-55
+               towerLocations:
+                  - 0,0,0
+               treeLocation: -60,65,-42

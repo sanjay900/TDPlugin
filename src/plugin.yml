@@ -1,0 +1,9 @@
+name: TDPlugin
+main: com.sanjay900.TD.TDPlugin
+version: 12.0
+depends: [ShatteredPlugin]
+commands:
+   moba:
+      description: Moba related commands
+      usage: /moba help
+
